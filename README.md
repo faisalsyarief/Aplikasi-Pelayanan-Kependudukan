@@ -1,5 +1,5 @@
 # Aplikasi Sistem Pelayanan Kependudukan
-# Proyek 1
+# UAS OSS
 
 **ABSTRAK**
 
