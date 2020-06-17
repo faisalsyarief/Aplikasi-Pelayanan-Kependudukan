@@ -1,4 +1,4 @@
-# Aplikasi Sistem Pelayanan Kependudukan Untuk Mendukung Smart Administration Di Kota Semarang Berbasis Web (Studi Kasus: Akta Kelahiran, Akta Kematian, Pindah Domisili)
+# Aplikasi Sistem Pelayanan Kependudukan
 # Proyek 1
 
 **ABSTRAK**
